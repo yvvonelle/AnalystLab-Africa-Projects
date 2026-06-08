@@ -2,7 +2,7 @@
 ## Week 1–2 Task: 
 
 This repository contains my submission for the AnalystLab Africa 
-Data Analytics Internship Program Batch B. The task involved 
+Data Analytics Internship Program Tasks for week 1 and 2. The task involved 
 cleaning, validating, and exploring two real-world datasets using 
 Python in Jupyter Notebooks.
 
@@ -80,4 +80,4 @@ Each dataset follows the same 5-task structure:
 
 ---
 
-## Repository Structure
+
